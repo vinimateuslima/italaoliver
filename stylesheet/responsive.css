@@ -77,6 +77,18 @@
         padding: 200px 0;
     }
 
+    #itala_oliver {
+        display: block;
+        width: 100%;
+        margin-bottom: 2em;
+    }
+
+    #itala_oliver img{
+        width: 80%;
+        
+        border-radius: 20px;
+    }
+
 }
 
 @media only screen and (max-width: 1440px) {
